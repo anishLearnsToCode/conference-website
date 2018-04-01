@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfdd8ca3-8dcc-4110-934c-edc0178fd967" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/Places to Explore/old-fort/old-fort-overlay.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/Places to Explore/old-fort/old-fort.jpg" afterPath="" />
       <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
-              <caret line="540" column="80" lean-forward="true" selection-start-line="540" selection-start-column="80" selection-end-line="540" selection-end-column="80" />
+              <caret line="540" column="80" lean-forward="false" selection-start-line="540" selection-start-column="80" selection-end-line="540" selection-end-column="80" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -66,8 +64,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="745">
-              <caret line="1086" column="76" lean-forward="false" selection-start-line="1086" selection-start-column="76" selection-end-line="1086" selection-end-column="76" />
+            <state relative-caret-position="397">
+              <caret line="154" column="1" lean-forward="true" selection-start-line="154" selection-start-column="1" selection-end-line="154" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -118,7 +116,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>call for papers</find>
       <find>a:</find>
       <find>old</find>
       <find>section-wr</find>
@@ -148,6 +145,7 @@
       <find>college</find>
       <find>modal</find>
       <find>wedge</find>
+      <find>gray</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -281,7 +279,7 @@
       <workItem from="1522234573599" duration="8919000" />
       <workItem from="1522303574262" duration="2759000" />
       <workItem from="1522506870272" duration="772000" />
-      <workItem from="1522570488520" duration="1265000" />
+      <workItem from="1522570488520" duration="2056000" />
     </task>
     <task id="LOCAL-00001" summary="Have changed the top width of the jumbotron sections and fixed the error where the remaining days weren't showing">
       <created>1521894466618</created>
@@ -371,7 +369,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130027000" />
+    <option name="totallyTimeSpent" value="130818000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -905,7 +903,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="540" column="80" lean-forward="true" selection-start-line="540" selection-start-column="80" selection-end-line="540" selection-end-column="80" />
+          <caret line="540" column="80" lean-forward="false" selection-start-line="540" selection-start-column="80" selection-end-line="540" selection-end-column="80" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -947,8 +945,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="745">
-          <caret line="1086" column="76" lean-forward="false" selection-start-line="1086" selection-start-column="76" selection-end-line="1086" selection-end-column="76" />
+        <state relative-caret-position="397">
+          <caret line="154" column="1" lean-forward="true" selection-start-line="154" selection-start-column="1" selection-end-line="154" selection-end-column="1" />
           <folding />
         </state>
       </provider>

@@ -148,9 +148,10 @@ button:focus,.btn:focus,.btn:active:focus {
  * -------------------*/
 
 .gray-bg {
-  background-color: #f0f1f3;
-  border-top: 1px solid #eeeeee;
-  border-bottom: 1px solid #eeeeee;
+  /*background-color: #f0f1f3;*/
+  background-color: rgba(255, 230, 255, 0.3);
+  /*border-top: 1px solid #eeeeee;*/
+  /*border-bottom: 1px solid #eeeeee;*/
 }
 
 .white-bg {
