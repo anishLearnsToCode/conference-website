@@ -872,6 +872,10 @@ Important Dates
   /*color: rebeccapurple;*/
   color: #2e6da4;
 }
+.important-dates-left{
+ font-weight: 400;
+  text-transform: uppercase;
+}
 
 /*--------------------
 Places to Explore
