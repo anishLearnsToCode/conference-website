@@ -407,10 +407,19 @@ button:focus,.btn:focus,.btn:active:focus {
   margin-bottom: 0;
 }
 
+.memory{
+  font-family: "Playfair Display";
+  color: lightcoral;
+  /*color: black;*/
+  font-size: 1.8em;
+  font-style: italic;
+}
+
 .symposium-container{
   display: flex;
   flex-wrap: nowrap;
   margin: 0 auto;
+  margin-top: 40px;
   color: blanchedalmond;
   font-family: "Playfair Display";
   font-size: 1.3em;
@@ -427,7 +436,7 @@ button:focus,.btn:focus,.btn:active:focus {
   font-size: 30px;
   margin-bottom: 40px;
   color: navajowhite;
-  margin-top: 70px;
+  margin-top: 40px;
 }
 .jumbotron .content .event-date {
   margin-bottom: 10px;
