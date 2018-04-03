@@ -409,9 +409,9 @@ button:focus,.btn:focus,.btn:active:focus {
 
 .memory{
   font-family: "Playfair Display";
-  color: lightcoral;
-  /*color: black;*/
-  font-size: 1.8em;
+  /*color: lightcoral;*/
+  color: lightcyan;
+  font-size: 1.9em;
   font-style: italic;
   font-weight: bold;
 }
