@@ -329,7 +329,7 @@
       <workItem from="1522303574262" duration="2759000" />
       <workItem from="1522506870272" duration="772000" />
       <workItem from="1522570488520" duration="2056000" />
-      <workItem from="1522750470333" duration="8191000" />
+      <workItem from="1522750470333" duration="8784000" />
     </task>
     <task id="LOCAL-00001" summary="Have changed the top width of the jumbotron sections and fixed the error where the remaining days weren't showing">
       <created>1521894466618</created>
@@ -419,7 +419,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139009000" />
+    <option name="totallyTimeSpent" value="139602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
