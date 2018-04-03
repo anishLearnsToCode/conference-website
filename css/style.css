@@ -805,7 +805,7 @@ Keynote Speakers
   margin-top: 100px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  /*justify-content: center;*/
   align-content: space-around;
   /*background-color: whitesmoke;*/
 }
@@ -816,7 +816,7 @@ Keynote Speakers
   text-align: center;
   display: block;
   width: 300px;
-  margin: 50px;
+  margin: 0 40px 40px 0;
 
   box-shadow: 0 0 40px 1px lightgray;
   transition: box-shadow 0.3s;
