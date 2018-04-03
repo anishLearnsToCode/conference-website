@@ -1321,6 +1321,9 @@ Venue
 .text-size-xlg{
   font-size: 1.6em;
 }
+.text-weight{
+  font-weight: 300;
+}
 
 #fees > table > thead > tr > td{
   font-size: 10em;
