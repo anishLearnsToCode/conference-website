@@ -154,6 +154,10 @@ button:focus,.btn:focus,.btn:active:focus {
   /*border-bottom: 1px solid #eeeeee;*/
 }
 
+.light-grey-bg{
+  background-color: rgba(255, 230, 230, 0.2);
+}
+
 .white-bg {
   background-color: #ffffff;
 }
