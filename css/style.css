@@ -410,13 +410,13 @@ button:focus,.btn:focus,.btn:active:focus {
   color: lightblue;
   font-family: 'Roboto', SansSerif;
   font-weight: 300;
-  font-size: 3em;
+  font-size: 45px;
 }
 
 .content h3 {
   color: lightcyan;
   font-weight: 200;
-  font-size: 2em;
+  font-size: 30px;
   margin-bottom: 0;
   margin-top: 0;
 }
@@ -425,7 +425,7 @@ button:focus,.btn:focus,.btn:active:focus {
   font-family: "Playfair Display";
   color: lightgrey;
   /*color: lightcyan;*/
-  font-size: 1.5em;
+  font-size: 1em;
   /*font-style: italic;*/
   font-weight: bold;
 }
@@ -442,7 +442,7 @@ button:focus,.btn:focus,.btn:active:focus {
   margin-top: 40px;
   color: blanchedalmond;
   font-family: "Playfair Display";
-  font-size: 1.1em;
+  font-size: 1em;
   justify-content: space-evenly;
 }
 
@@ -486,7 +486,7 @@ button:focus,.btn:focus,.btn:active:focus {
 }
 
 #date-reminder{
-  margin-top: 100px;
+  margin-top: 0;
   display: flex;
   flex-wrap: nowrap;
   justify-content: center;
