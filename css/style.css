@@ -363,6 +363,17 @@ button:focus,.btn:focus,.btn:active:focus {
  * Jumbotron
  *-------------------*/
 
+#title-page{
+  background-color: dimgrey;
+  background: url("../assets/lotus_temple_2_overlay.jpg");
+  opacity: 0.7;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 100vh;
+}
+
 .jumbotron {
   background-color: dimgrey;
   background: url("../assets/lotus_temple_2_overlay.jpg");
@@ -376,14 +387,13 @@ button:focus,.btn:focus,.btn:active:focus {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  overflow: hidden;
 }
 
-.jumbotron .content {
+.content {
   opacity: 1;
   color: #fff;
   position: absolute;
-  top: 40%;
+  top: 30%;
   left: 0;
   right: 0;
   height: 30%;
@@ -396,13 +406,14 @@ button:focus,.btn:focus,.btn:active:focus {
   -moz-transform: translateY(-50%);
 }
 
-.jumbotron .content h1 {
+.content h1 {
   color: lightblue;
   font-family: 'Roboto', SansSerif;
   font-weight: 300;
+  font-size: 3em;
 }
 
-.jumbotron .content h3 {
+.content h3 {
   color: lightcyan;
   font-weight: 200;
   font-size: 2em;
@@ -414,7 +425,7 @@ button:focus,.btn:focus,.btn:active:focus {
   font-family: "Playfair Display";
   color: lightgrey;
   /*color: lightcyan;*/
-  font-size: 1.6em;
+  font-size: 1.5em;
   /*font-style: italic;*/
   font-weight: bold;
 }
@@ -431,45 +442,45 @@ button:focus,.btn:focus,.btn:active:focus {
   margin-top: 40px;
   color: blanchedalmond;
   font-family: "Playfair Display";
-  font-size: 1.3em;
+  font-size: 1.1em;
   justify-content: space-evenly;
 }
 
-.jumbotron .content p.lead {
+.content p.lead {
   font-size: 24px;
   line-height: 1.5em;
   color: rgba(0, 0, 0, 0.1);
 }
 
-.jumbotron .content .event-date-container {
+.content .event-date-container {
   font-size: 30px;
   margin-bottom: 40px;
   color: navajowhite;
   margin-top: 40px;
 }
-.jumbotron .content .event-date {
+.content .event-date {
   margin-bottom: 10px;
   font-weight: 100;
 }
-.jumbotron .content .college{
+.content .college{
   font-size: 0.9em;
   font-weight: 100;
 }
 
-.jumbotron .btn {
+.btn {
   margin-top: 40px;
 }
 
 @media (max-width: 600px) {
-  .jumbotron .content {
+  .content {
     min-height: auto;
   }
 
-  .jumbotron .content h1 {
+  .content h1 {
     font-size: 26px;
   }
 
-  .jumbotron .content p.lead {
+  .content p.lead {
     font-size: 15px;
   }
 }
