@@ -406,6 +406,7 @@ button:focus,.btn:focus,.btn:active:focus {
   font-weight: 200;
   font-size: 2em;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
 .memory{
@@ -1144,9 +1145,9 @@ Places to Explore
 }
 
 /*------------------
-About
+Organizing Committee
 ------------------*/
-#about{
+#organizing-committee{
   min-height: 100vh;
   background-image: url("../assets/flower-group/flower-group.png");
   background-repeat: no-repeat;
