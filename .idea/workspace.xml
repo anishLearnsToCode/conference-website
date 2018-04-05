@@ -19,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1214">
-              <caret line="992" column="67" lean-forward="false" selection-start-line="992" selection-start-column="67" selection-end-line="992" selection-end-column="67" />
+            <state relative-caret-position="655">
+              <caret line="935" column="57" lean-forward="false" selection-start-line="935" selection-start-column="57" selection-end-line="935" selection-end-column="57" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -330,7 +330,7 @@
       <workItem from="1522570488520" duration="2056000" />
       <workItem from="1522750470333" duration="8784000" />
       <workItem from="1522905700794" duration="384000" />
-      <workItem from="1522906169982" duration="1147000" />
+      <workItem from="1522906169982" duration="1236000" />
     </task>
     <task id="LOCAL-00001" summary="Have changed the top width of the jumbotron sections and fixed the error where the remaining days weren't showing">
       <created>1521894466618</created>
@@ -420,7 +420,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141133000" />
+    <option name="totallyTimeSpent" value="141222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1850" extended-state="6" />
@@ -952,8 +952,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1214">
-          <caret line="992" column="67" lean-forward="false" selection-start-line="992" selection-start-column="67" selection-end-line="992" selection-end-column="67" />
+        <state relative-caret-position="655">
+          <caret line="935" column="57" lean-forward="false" selection-start-line="935" selection-start-column="57" selection-end-line="935" selection-end-column="57" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
