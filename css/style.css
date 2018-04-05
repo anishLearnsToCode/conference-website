@@ -211,6 +211,7 @@ button:focus,.btn:focus,.btn:active:focus {
   padding: 0;
   margin: 0;
   display: block;
+  font-size: 1.8em;
 }
 .navbar-brand-container #navbar-brand-container-lower-heading{
   font-size: 2em;
@@ -287,7 +288,7 @@ button:focus,.btn:focus,.btn:active:focus {
 .main-menu .nav li a {
   color: lightcyan;
   font-weight: 600;
-  font-size: 1.1em;
+  font-size: 1em;
   padding: 0;
   margin-left: 10px;
   margin-right: 10px;
