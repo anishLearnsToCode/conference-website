@@ -46,3 +46,7 @@ function initializeMap() {
         icon: markerIcon
     });
 }
+
+
+// On page load hide logo2
+$('#logo2').hide();

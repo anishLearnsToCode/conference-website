@@ -19,10 +19,14 @@ jQuery(function ($) {
             if ($(this).scrollTop() >= 150) {
                 $('nav.navbar').addClass('sticky-nav');
                 $('#navbar-brand-container-lower-heading').show();
+                $('#logo2').show();
+                $('#logo1').hide();
             }
             else {
                 $('nav.navbar').removeClass('sticky-nav');
                 $('#navbar-brand-container-lower-heading').hide();
+                $('#logo1').show();
+                $('#logo2').hide();
             }
         });
     }());
@@ -36,7 +40,7 @@ jQuery(function ($) {
             e.preventDefault();
             var $anchor = $(this);
             $('html, body').stop().animate({
-                scrollTop : $($anchor.attr('href')).offset().top - 100
+                scrollTop : $($anchor.attr('href')).offset().top - 50
             }, 1500, 'easeInOutExpo');
         });
     }());

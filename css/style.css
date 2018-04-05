@@ -233,6 +233,10 @@ button:focus,.btn:focus,.btn:active:focus {
   margin-left: 10px;
 }
 
+.navbar-brand-container img{
+  height: 60px;
+}
+
 @media (max-width: 768px) {
   .navbar-brand {
     width: 200px;
