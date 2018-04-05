@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfdd8ca3-8dcc-4110-934c-edc0178fd967" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="116" column="65" lean-forward="false" selection-start-line="116" selection-start-column="65" selection-end-line="116" selection-end-column="65" />
+            <state relative-caret-position="410">
+              <caret line="122" column="62" lean-forward="false" selection-start-line="122" selection-start-column="62" selection-end-line="122" selection-end-column="62" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -69,8 +71,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="569">
-              <caret line="373" column="20" lean-forward="false" selection-start-line="373" selection-start-column="20" selection-end-line="373" selection-end-column="20" />
+            <state relative-caret-position="665">
+              <caret line="418" column="19" lean-forward="true" selection-start-line="418" selection-start-column="19" selection-end-line="418" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -79,8 +81,8 @@
       <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="565">
-              <caret line="4" column="55231" lean-forward="true" selection-start-line="4" selection-start-column="55231" selection-end-line="4" selection-end-column="55231" />
+            <state relative-caret-position="1003">
+              <caret line="4" column="55231" lean-forward="false" selection-start-line="4" selection-start-column="55231" selection-end-line="4" selection-end-column="55231" />
               <folding />
             </state>
           </provider>
@@ -89,7 +91,7 @@
       <file leaf-file-name="location-cards-app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/location-cards-app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
+            <state relative-caret-position="510">
               <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <marker date="1521877130036" expanded="true" signature="3370:3377" ph="..." />
@@ -103,7 +105,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
+            <state relative-caret-position="425">
               <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
               <folding />
             </state>
@@ -131,7 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>section-wrapp</find>
       <find>navbar-ri</find>
       <find>carousel</find>
       <find>footer-conta</find>
@@ -161,6 +162,7 @@
       <find>jumbotr</find>
       <find>progr</find>
       <find>memory</find>
+      <find>7</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -178,8 +180,8 @@
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/js/app.js" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -253,7 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,6 +270,12 @@
             <path>
               <item name="University Conference" type="b2602c69:ProjectViewProjectNode" />
               <item name="University Conference" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="flower-group" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="University Conference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="University Conference" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -276,6 +283,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,7 +350,8 @@
       <workItem from="1522570488520" duration="2056000" />
       <workItem from="1522750470333" duration="8784000" />
       <workItem from="1522905700794" duration="384000" />
-      <workItem from="1522906169982" duration="7059000" />
+      <workItem from="1522906169982" duration="7509000" />
+      <workItem from="1522929377546" duration="280000" />
     </task>
     <task id="LOCAL-00001" summary="Have changed the top width of the jumbotron sections and fixed the error where the remaining days weren't showing">
       <created>1521894466618</created>
@@ -432,13 +441,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147045000" />
+    <option name="totallyTimeSpent" value="147775000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="-13" width="2762" height="1850" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14802632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10520833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886723" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -931,7 +940,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/location-cards-app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
+        <state relative-caret-position="510">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <marker date="1521877130036" expanded="true" signature="3370:3377" ph="..." />
@@ -943,7 +952,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
+        <state relative-caret-position="425">
           <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
           <folding />
         </state>
@@ -957,10 +966,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="4" column="55231" lean-forward="false" selection-start-line="4" selection-start-column="55231" selection-end-line="4" selection-end-column="55231" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="116" column="65" lean-forward="false" selection-start-line="116" selection-start-column="65" selection-end-line="116" selection-end-column="65" />
+        <state relative-caret-position="410">
+          <caret line="122" column="62" lean-forward="false" selection-start-line="122" selection-start-column="62" selection-end-line="122" selection-end-column="62" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1005,18 +1022,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="4" column="55231" lean-forward="true" selection-start-line="4" selection-start-column="55231" selection-end-line="4" selection-end-column="55231" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="373" column="20" lean-forward="false" selection-start-line="373" selection-start-column="20" selection-end-line="373" selection-end-column="20" />
+        <state relative-caret-position="665">
+          <caret line="418" column="19" lean-forward="true" selection-start-line="418" selection-start-column="19" selection-end-line="418" selection-end-column="19" />
           <folding />
         </state>
       </provider>
