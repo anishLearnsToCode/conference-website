@@ -413,7 +413,7 @@ button:focus,.btn:focus,.btn:active:focus {
   font-family: "Playfair Display";
   color: lightgrey;
   /*color: lightcyan;*/
-  font-size: 2em;
+  font-size: 1.6em;
   /*font-style: italic;*/
   font-weight: bold;
 }
