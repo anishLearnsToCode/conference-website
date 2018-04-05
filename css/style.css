@@ -417,6 +417,11 @@ button:focus,.btn:focus,.btn:active:focus {
   /*font-style: italic;*/
   font-weight: bold;
 }
+@media (max-width: 780px) {
+  .memory{
+    font-size: 0.7em;
+  }
+}
 
 .symposium-container{
   display: flex;
