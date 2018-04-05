@@ -278,9 +278,9 @@ button:focus,.btn:focus,.btn:active:focus {
 /*Navigation Style*/
 
 .main-menu .navbar-right {
-  margin-top: 20px;
-  margin-right: 200px;
-  width: 50%;
+  /*margin-top: 20px;*/
+  margin-right: 100px;
+  width: 55%;
   /*background-color: yellow;*/
 }
 
