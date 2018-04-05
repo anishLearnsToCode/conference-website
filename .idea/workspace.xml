@@ -69,8 +69,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="839">
-              <caret line="462" column="19" lean-forward="false" selection-start-line="462" selection-start-column="19" selection-end-line="462" selection-end-column="19" />
+            <state relative-caret-position="569">
+              <caret line="373" column="20" lean-forward="false" selection-start-line="373" selection-start-column="20" selection-end-line="373" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -342,7 +342,7 @@
       <workItem from="1522570488520" duration="2056000" />
       <workItem from="1522750470333" duration="8784000" />
       <workItem from="1522905700794" duration="384000" />
-      <workItem from="1522906169982" duration="6406000" />
+      <workItem from="1522906169982" duration="7059000" />
     </task>
     <task id="LOCAL-00001" summary="Have changed the top width of the jumbotron sections and fixed the error where the remaining days weren't showing">
       <created>1521894466618</created>
@@ -432,7 +432,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146392000" />
+    <option name="totallyTimeSpent" value="147045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="2762" height="1850" extended-state="6" />
@@ -1015,8 +1015,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="839">
-          <caret line="462" column="19" lean-forward="false" selection-start-line="462" selection-start-column="19" selection-end-line="462" selection-end-column="19" />
+        <state relative-caret-position="569">
+          <caret line="373" column="20" lean-forward="false" selection-start-line="373" selection-start-column="20" selection-end-line="373" selection-end-column="20" />
           <folding />
         </state>
       </provider>

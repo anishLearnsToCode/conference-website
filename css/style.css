@@ -371,7 +371,7 @@ button:focus,.btn:focus,.btn:active:focus {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  min-height: 100vh;
+  min-height: 120vh;
 }
 
 .jumbotron {
@@ -426,7 +426,7 @@ button:focus,.btn:focus,.btn:active:focus {
   font-family: "Playfair Display";
   color: lightgrey;
   /*color: lightcyan;*/
-  font-size: 1em;
+  font-size: 20px;
   /*font-style: italic;*/
   font-weight: bold;
 }
