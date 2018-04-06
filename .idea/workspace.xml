@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cfdd8ca3-8dcc-4110-934c-edc0178fd967" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="56" column="89" lean-forward="false" selection-start-line="56" selection-start-column="89" selection-end-line="56" selection-end-column="89" />
+            <state relative-caret-position="390">
+              <caret line="979" column="85" lean-forward="false" selection-start-line="979" selection-start-column="85" selection-end-line="979" selection-end-column="85" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -52,7 +53,6 @@
                 <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -67,8 +67,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="236" column="10" lean-forward="true" selection-start-line="236" selection-start-column="10" selection-end-line="236" selection-end-column="10" />
+            <state relative-caret-position="7788">
+              <caret line="236" column="10" lean-forward="false" selection-start-line="236" selection-start-column="10" selection-end-line="236" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -77,7 +77,7 @@
       <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
+            <state relative-caret-position="1947">
               <caret line="4" column="55231" lean-forward="false" selection-start-line="4" selection-start-column="55231" selection-end-line="4" selection-end-column="55231" />
               <folding />
             </state>
@@ -87,7 +87,7 @@
       <file leaf-file-name="location-cards-app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/location-cards-app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="990">
               <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <marker date="1521877130036" expanded="true" signature="3370:3377" ph="..." />
@@ -101,7 +101,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
+            <state relative-caret-position="1683">
               <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
               <folding />
             </state>
@@ -111,7 +111,7 @@
       <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
+            <state relative-caret-position="1386">
               <caret line="42" column="67" lean-forward="true" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
               <folding />
             </state>
@@ -252,6 +252,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,7 +280,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -348,7 +348,9 @@
       <workItem from="1522905700794" duration="384000" />
       <workItem from="1522906169982" duration="7509000" />
       <workItem from="1522929377546" duration="874000" />
-      <workItem from="1522931718376" duration="1918000" />
+      <workItem from="1522931718376" duration="2043000" />
+      <workItem from="1522955352514" duration="116000" />
+      <workItem from="1522995620603" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="Have changed the top width of the jumbotron sections and fixed the error where the remaining days weren't showing">
       <created>1521894466618</created>
@@ -438,13 +440,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150287000" />
+    <option name="totallyTimeSpent" value="151378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-13" y="-13" width="2762" height="1850" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21856725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32886723" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -559,7 +561,6 @@
             <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -629,7 +630,6 @@
             <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -699,7 +699,6 @@
             <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -769,7 +768,6 @@
             <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -846,7 +844,6 @@
             <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -927,7 +924,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/location-cards-app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="990">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <marker date="1521877130036" expanded="true" signature="3370:3377" ph="..." />
@@ -939,7 +936,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
+        <state relative-caret-position="1947">
           <caret line="4" column="55231" lean-forward="false" selection-start-line="4" selection-start-column="55231" selection-end-line="4" selection-end-column="55231" />
           <folding />
         </state>
@@ -947,15 +944,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="236" column="10" lean-forward="true" selection-start-line="236" selection-start-column="10" selection-end-line="236" selection-end-column="10" />
+        <state relative-caret-position="7788">
+          <caret line="236" column="10" lean-forward="false" selection-start-line="236" selection-start-column="10" selection-end-line="236" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
+        <state relative-caret-position="1683">
           <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
           <folding />
         </state>
@@ -963,7 +960,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
+        <state relative-caret-position="1386">
           <caret line="42" column="67" lean-forward="true" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
           <folding />
         </state>
@@ -971,8 +968,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="56" column="89" lean-forward="false" selection-start-line="56" selection-start-column="89" selection-end-line="56" selection-end-column="89" />
+        <state relative-caret-position="390">
+          <caret line="979" column="85" lean-forward="false" selection-start-line="979" selection-start-column="85" selection-end-line="979" selection-end-column="85" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1004,7 +1001,6 @@
             <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#section#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#section#7;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#8;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#section#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
