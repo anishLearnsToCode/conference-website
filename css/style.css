@@ -467,6 +467,7 @@ button:focus,.btn:focus,.btn:active:focus {
 .content .event-date {
   margin-bottom: 0;
   font-weight: 300;
+  font-size: 1.2em;
 }
 .content .college{
   font-size: 0.9em;
